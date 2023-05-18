@@ -3,6 +3,6 @@ layout: homepage.html
 title: Home
 
 hero:
-  title: Built with Kong
+  title: Built with Letshego
   tagline: Empowering developers across the globe.
 ---
